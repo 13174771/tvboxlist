@@ -555,7 +555,6 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u
-TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8$高清1080P
 HBO,http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73696$高清1080P
 HBO,http://platin4k.eu:80/kralkerim/8TKLyJivVEA/34795$高清1080P
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
