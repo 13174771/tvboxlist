@@ -42,9 +42,9 @@ CCTV4,http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8$超清1
 CCTV4,http://39.135.138.59:18890/PLTV/88888888/224/3221225621/index.m3u8$超清1080P
 
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8$超清1080P
-CCTV4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8$超清1080P  
-CCTV4K 超高清,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/1.m3u8$超清1080P 
-CCTV4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd$超清1080P
+CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8$超清1080P  
+CCTV4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/1.m3u8$超清1080P 
+CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd$超清1080P
 
 
 CCTV5,http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT$超清1080P
