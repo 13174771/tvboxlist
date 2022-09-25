@@ -1096,7 +1096,6 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 
 🎬｜影院轮播,#genre#
-糖豆广场舞,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_235_600_t10/c56_lb_235_600_t10.m3u8
 欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8$超清1080P
 欢笑剧场4K,http://111.20.33.70/PLTV/88888893/224/3221226582/index.m3u8$超清1080P 
 欢笑剧场4K,http://111.20.33.82:80/PLTV/88888893/224/3221226582/index.m3u8?icpid=88888893&from=1&hms_devid=844$超清1080P 
