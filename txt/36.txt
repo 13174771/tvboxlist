@@ -650,7 +650,6 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 山东齐鲁,http://119.164.216.162:9901/tsfile/live/1000_1.m3u8$超清1080P
 山东文旅,http://119.164.216.162:9901/tsfile/live/1001_1.m3u8
 山东教育卫视,https://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8$超清1080P
-山东教育卫视,http://117.148.179.157/PLTV/88888888/224/3221231549/index.m3u8?shandd
 山东生活,http://119.164.216.162:9901/tsfile/live/1006_1.m3u8
 山东体育,http://119.164.216.162:9901/tsfile/live/1003_1.m3u8
 山东综艺,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
