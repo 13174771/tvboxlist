@@ -547,9 +547,6 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8$高清720P
 凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 
-香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$高清720P
-香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv$高清720P
-阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8$标清576P
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$高清1080P
 时装imodeTV,http://juyunlive.juyun.tv/live/24950198.m3u8$高清1080P
 TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8$高清1080P
