@@ -343,6 +343,9 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 南方卫视,http://111.20.33.70/PLTV/88888893/224/3221226218/index.m3u8$高清720P
 南方卫视,http://9.zhxinda.xyz/gdtv.php?pk=1197$高清720P
 香港卫视,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
 澳门卫视,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8$标清720P
 澳门卫视,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8$标清720P
 澳门卫视,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8$标清720P
