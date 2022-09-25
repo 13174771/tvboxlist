@@ -552,6 +552,9 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$高清1080P
 时装imodeTV,http://juyunlive.juyun.tv/live/24950198.m3u8$高清1080P
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u
 TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8$高清1080P
 HBO,http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73696$高清1080P
 HBO,http://platin4k.eu:80/kralkerim/8TKLyJivVEA/34795$高清1080P
@@ -602,6 +605,7 @@ RTHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
 澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8$高清720P
 三立新闻,http://23.237.10.66:16342
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,rtmp://59.124.75.150/sat/tv551$高清720P
 TVBS新闻,rtmp://59.124.75.138/sat/tv551$高清720P
 TVBS欢乐,rtmp://59.124.75.150/sat/tv421$高清720P
@@ -613,7 +617,9 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 东森财经,rtmp://59.124.75.138/sat/tv571$高清720P
 东森超视,rtmp://59.124.75.138:1935/sat/tv331$高清720P
 东森超视,rtmp://59.124.75.150/sat/tv331$高清720P
+东森超视,http://171.108.239.13:8181/tsfile/live/1023_1.m3u8
 东森电影,http://120.84.96.47:808/hls/32/index.m3u8$高清1080P
+东森电影,http://171.108.239.13:8181/tsfile/live/1010_1.m3u8
 中天新闻,https://pull-f5-spe.ixigua.com/live/rtmvpkgtvvzggyiuuikfvbscvgjktwgfsggsgqrcvuyremgeztxw/index.m3u8$高清1080P
 龙祥时代,http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8$高清720P
 卫视电影,http://23.237.10.66:16010$高清720P
@@ -621,10 +627,13 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 纬来育乐,rtmp://59.124.75.138/sat/tv701$高清720P
 纬来体育,rtmp://59.124.75.150/sat/tv721$高清720P
 纬来体育,rtmp://59.124.75.138/sat/tv721$高清720P
-大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8$高清720P
-大爱,https://pulltv2.wanfudaluye.com/live/tv2.m3u8$高清720P
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8$高清720P
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8$高清720P
 好消息1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8$高清720P
 好消息2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8$高清720P
+唯心台,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+唯心台,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+唯心台,http://124.238.99.44:808/hls/363/index.m3u8
 中视,rtmp://59.124.75.138/sat/tv091$高清720P
 中视,rtmp://59.124.75.150/sat/tv091$高清720P
 华视,rtmp://59.124.75.138:1935/sat/tv111$高清720P
@@ -634,7 +643,18 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 民视,rtmp://59.124.75.150/sat/tv051$高清720P
 民视,rtmp://59.124.75.138/sat/tv051$高清720P
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8$高清1080P
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8$高清1080P
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8$高清1080P
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8$高清1080P
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
+点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 
 🚀｜山东,#genre#
 山东卫视,http://222.175.159.226:808/hls/19/index.m3u8$超清1080P
