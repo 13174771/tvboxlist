@@ -333,7 +333,8 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 吉林卫视,http://111.40.196.36/PLTV/88888888/224/3221225589/index.m3u8$高清720P
 吉林卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8$高清720P
 吉林卫视,http://39.135.138.58:18890/PLTV/88888910/224/3221225680/index.m3u8$高清720P
-
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 贵州卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8$超清1080P
 贵州卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225728/index.m3u8$超清1080P
 贵州卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls$超清1080P
@@ -547,7 +548,8 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 凤凰香港,http://50.7.220.74:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8$高清720P
 凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
-香港卫视,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$高清1080P
 时装imodeTV,http://juyunlive.juyun.tv/live/24950198.m3u8$高清1080P
 TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8$高清1080P
