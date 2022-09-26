@@ -594,12 +594,10 @@ TVB J2,https://j3.lhlh.app/mv.m3u8?checkedby:iptvcat.com
 澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8$高清720P
 澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8$高清720P
 三立新闻,http://23.237.10.66:16342
-TVBS新闻,http://98.142.138.122:1638/zhiboyuandakaTV/ebcnews92755.m3u8$高清1080P
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻,rtmp://59.124.75.150/sat/tv551$高清720P
-TVBS新闻,rtmp://59.124.75.138/sat/tv551$高清720P
-TVBS新闻,http://98.142.138.122:1633/zhiboyuandakaTV/tvbs562517350.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8$高清1080P
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8$高清1080P
+TVBS新闻HD,rtmp://59.124.75.150/sat/tv551$高清720P
+TVBS新闻HD,rtmp://59.124.75.138/sat/tv551$高清720P
 TVBS亚洲,http://98.142.138.122:1636/zhiboyuandakaTV/tvbsasia5673.m3u8
 TVBS欢乐,rtmp://59.124.75.150/sat/tv421$高清720P
 TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
