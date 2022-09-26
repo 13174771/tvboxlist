@@ -609,7 +609,6 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 东森超视,rtmp://59.124.75.150/sat/tv331$高清720P
 东森超视,http://171.108.239.13:8181/tsfile/live/1023_1.m3u8$高清720P
 中天新闻,http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian98432987.m3u8$高清1080P
-龙祥时代,http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8$高清720P
 卫视电影,http://23.237.10.66:16010$高清720P
 纬来育乐,rtmp://59.124.75.150/sat/tv701$高清720P
 纬来育乐,rtmp://59.124.75.138/sat/tv701$高清720P
@@ -619,7 +618,6 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8$高清720P
 好消息1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8$高清720P
 好消息2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8$高清720P
-唯心台,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心台,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心台,http://124.238.99.44:808/hls/363/index.m3u8
 中视HD,rtmp://59.124.75.138/sat/tv091$高清720P
