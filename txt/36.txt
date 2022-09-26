@@ -554,6 +554,12 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 有线新闻台,http://98.142.138.122:1630/zhiboyuandakaTV/cable559854398.m3u8
 有线财经新闻台,http://98.142.138.122:1631/zhiboyuandakaTV/icable738952.m3u8
 有线财经新闻台,http://98.142.138.122:1631/zhiboyuandakaTV/icable53832845.m3u8
+Now新闻,http://61.222.202.191/tbs.php?id=16
+now新闻,http://livetv.dnsfor.me:80/channel.4.m3u8
+Now新闻台,http://livetv.dnsfor.me:80/channel.4.m3u8
+now新闻台,mitv://ns2.hellotvvod.com:9906/7a7898681c3f48709f87e49bbfe399dc
+Now新闻台,http://ott3.alwaysdata.net/live/hk.php?id=18
+Now新闻台,http://ott3.alwaysdata.net/live/hk.php?id=17
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$高清1080P
 时装imodeTV,http://juyunlive.juyun.tv/live/24950198.m3u8$高清1080P
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
