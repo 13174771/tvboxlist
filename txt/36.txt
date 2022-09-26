@@ -599,6 +599,8 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,rtmp://59.124.75.150/sat/tv551$高清720P
 TVBS新闻,rtmp://59.124.75.138/sat/tv551$高清720P
+TVBS新闻,http://98.142.138.122:1633/zhiboyuandakaTV/tvbs562517350.m3u8
+TVBS亚洲,http://98.142.138.122:1636/zhiboyuandakaTV/tvbsasia5673.m3u8
 TVBS欢乐,rtmp://59.124.75.150/sat/tv421$高清720P
 TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 东森卫视,http://38.64.72.148:80/hls/modn/list/2024/chunklist0.m3u8$高清1080P
@@ -642,7 +644,14 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-
+TVBS 56,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
+民视新闻HD,http://98.142.138.122:1634/zhiboyuandakaTV/mingshi838552450.m3u8
+台视新闻HD,http://98.142.138.122:1638/zhiboyuandakaTV/ebcnews92755.m3u8
+无线新闻台,http://98.142.138.122:1632/zhiboyuandakaTV/ViuTv21367.m3u8
+有线新闻台,http://98.142.138.122:1630/zhiboyuandakaTV/cable539854856.m3u8
+有线财经新闻台,http://98.142.138.122:1631/zhiboyuandakaTV/icable738952.m3u8
+有线新闻台,http://98.142.138.122:1630/zhiboyuandakaTV/cable559854398.m3u8
+有线财经新闻台,http://98.142.138.122:1631/zhiboyuandakaTV/icable53832845.m3u8
 🚀｜山东,#genre#
 山东卫视,http://222.175.159.226:808/hls/19/index.m3u8$超清1080P
 山东卫视,http://39.134.67.110/PLTV/88888888/224/3221225952/index.m3u8$超清1080P
