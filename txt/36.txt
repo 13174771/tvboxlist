@@ -606,6 +606,7 @@ TVBS亚洲,http://98.142.138.122:1636/zhiboyuandakaTV/tvbsasia5673.m3u8
 TVBS欢乐,rtmp://59.124.75.150/sat/tv421$高清720P
 TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 TVBS欢乐,http://209.141.56.65/litvts.php?id=4gtv-4gtv068
+TVBS 56,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
 东森卫视,http://38.64.72.148:80/hls/modn/list/2024/chunklist0.m3u8$高清1080P
 东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8$高清1080P
 东森财经,http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8$高清720P
@@ -629,16 +630,18 @@ TVBS欢乐,http://209.141.56.65/litvts.php?id=4gtv-4gtv068
 中视HD,rtmp://59.124.75.150/sat/tv091$高清720P
 华视HD,rtmp://59.124.75.138:1935/sat/tv111$高清720P
 华视HD,rtmp://59.124.75.150/sat/tv111$高清720P
-台视HD,rtmp://59.124.75.150/sat/tv071$高清720P
-台视HD,rtmp://59.124.75.138/sat/tv071$高清720P
 民视HD,rtmp://59.124.75.150/sat/tv051$高清720P
 民视HD,rtmp://59.124.75.138/sat/tv051$高清720P
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8$高清1080P
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8$高清1080P
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8$高清1080P
 民视新闻,http://98.142.138.122:1634/zhiboyuandakaTV/mingshi838552450.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8$高清1080P
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻HD,http://98.142.138.122:1634/zhiboyuandakaTV/mingshi838552450.m3u8
+台视HD,rtmp://59.124.75.150/sat/tv071$高清720P
+台视HD,rtmp://59.124.75.138/sat/tv071$高清720P
+台视新闻HD,http://98.142.138.122:1638/zhiboyuandakaTV/ebcnews92755.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8$高清1080P
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8$高清1080P
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8$高清1080P
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
@@ -647,9 +650,6 @@ TVBS欢乐,http://209.141.56.65/litvts.php?id=4gtv-4gtv068
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-TVBS 56,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
-民视新闻HD,http://98.142.138.122:1634/zhiboyuandakaTV/mingshi838552450.m3u8
-台视新闻HD,http://98.142.138.122:1638/zhiboyuandakaTV/ebcnews92755.m3u8
 🚀｜山东,#genre#
 山东卫视,http://222.175.159.226:808/hls/19/index.m3u8$超清1080P
 山东卫视,http://39.134.67.110/PLTV/88888888/224/3221225952/index.m3u8$超清1080P
