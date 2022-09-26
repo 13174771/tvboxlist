@@ -19,14 +19,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {	"name": " 👒293视频〔SP〕",
-			"key": "csp_SP293",
-			"type": 3,
-			"api": "csp_SP293",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
     {
       "key": "csp_AppTT",
       "name": "🐇兔兔影视",
@@ -37,6 +29,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {	"name": " 👒293视频",
+			"key": "csp_SP293",
+			"type": 3,
+			"api": "csp_SP293",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+
         {
       "key": "KanSJ_spider",
       "name": "🦅看视界",
