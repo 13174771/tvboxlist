@@ -19,6 +19,23 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {	"name": " 👒293视频",
+			"key": "csp_SP293",
+			"type": 3,
+			"api": "csp_SP293",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+        {
+      "key": "快看",
+      "name": "👀快看影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "csp_AppTT",
       "name": "🐇兔兔影视",
@@ -29,14 +46,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {	"name": " 👒293视频",
-			"key": "csp_SP293",
-			"type": 3,
-			"api": "csp_SP293",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
 
         {
       "key": "KanSJ_spider",
@@ -56,6 +65,16 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1
+    },
+        {
+      "key": "csp_Jianying",
+      "name": "✨简✨影",
+      "type": 3,
+      "api": "csp_JianYing",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/leevi/apps/raw/branch/main/txt/jy.txt"
     },
     {
       "key": "csp_IQIYI",
@@ -276,15 +295,6 @@
       "filterable": 1
     },
     {
-      "key": "快看",
-      "name": "👀快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "3EDY",
       "name": "🌴3EDY",
       "type": 3,
@@ -292,16 +302,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "csp_Jianying",
-      "name": "✨简影",
-      "type": 3,
-      "api": "csp_JianYing",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/leevi/apps/raw/branch/main/txt/jy.txt"
     },
     {
       "key": "csp_Anime1",
