@@ -1369,7 +1369,7 @@
     }
   ],
   "spider": "https://agit.ai/leevi/apps/raw/branch/main/jar/666.png;md5;2EEC1CE94F1FC91E75CF240F23677037",
-  "wallpaper": ""https://bg.s.welsun.win/api"",
+  "wallpaper": "https://bg.s.welsun.win/api,
   "lives": [
     {
       "group": "redirect",
