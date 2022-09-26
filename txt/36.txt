@@ -562,12 +562,9 @@ TVB翡翠,http://23.237.10.66:16106$高清1080P
 TVB翡翠,http://1b6467f415.iok.la:113/tsfile/live/1053_1.m3u8$高清1080P
 TVB翡翠,http://113.64.147.30:808/hls/67/index.m3u8$高清1080P
 TVB翡翠华丽,http://23.237.10.66:16410$高清1080P
-TVB星河,http://27.47.68.21:808/hls/35/index.m3u8$高清10800P
-TVB星河,http://27.47.68.19:808/hls/35/index.m3u8$高清720P
 TVB功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8$高清720P
 TVB无线新闻,http://23.237.10.66:16110$高清1080P
 TVB无线新闻,http://111.229.84.232/yulin/tvb.php?id=1$高清1080P
-TVB无线财经,http://111.229.84.232/yulin/tvb.php?id=2$高清720P
 TVB无线财经,http://120.84.96.63:808/hls/86/index.m3u8$高清720P
 TVB无线财经,http://120.84.96.53:808/hls/86/index.m3u8$高清720P
 TVB影视,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231733/1.m3u8 
@@ -576,11 +573,7 @@ ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8$高清720P
 ViuTV6,https://pull-l3-cny.douyincdn.com:443/live/e7af863905ba1411658aafc3374dd4ba.flv
 TVB明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8$高清720P
 TVB明珠台,https://cdn.hklive.tv/xxxx/84b/index.m3u8$高清720P
-TVB J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
-RTHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
-RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
-RTHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
-RTHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
+TVB J2,https://j3.lhlh.app/mv.m3u8?checkedby:iptvcat.com
 天映经典,http://120.84.96.47:808/hls/85/index.m3u8$高清1080P
 天映经典,http://120.84.96.63:808/hls/85/index.m3u8$高清1080P
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8$标清576P
