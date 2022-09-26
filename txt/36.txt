@@ -1128,19 +1128,6 @@ TVBS 56,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
 高二,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
 高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 
-🐠｜斗鱼电影,#genre#
-斗鱼电影1,http://124.223.212.38:83/douyu/8770422
-斗鱼电影1,http://diyp.112114.xyz/douyu/8770422
-斗鱼电影2,http://124.223.212.38:83/douyu/2436390
-斗鱼电影2,http://diyp.112114.xyz/douyu/2436390
-斗鱼电影3,http://124.223.212.38:83/douyu/36337
-斗鱼电影3,http://diyp.112114.xyz/douyu/36337
-斗鱼电影4,http://124.223.212.38:83/douyu/413573
-斗鱼电影4,http://diyp.112114.xyz/douyu/413573
-斗鱼电影5,http://124.223.212.38:83/douyu/315131
-斗鱼电影5,http://diyp.112114.xyz/douyu/315131
-斗鱼电影6,http://zzy789.xyz/douyu1.php?id=96577
-斗鱼电影6,http://diyp.112114.xyz/douyu/96577
 🎬｜影院轮播,#genre#
 欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8$超清1080P
 欢笑剧场4K,http://111.20.33.70/PLTV/88888893/224/3221226582/index.m3u8$超清1080P 
