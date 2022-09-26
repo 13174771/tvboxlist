@@ -27,7 +27,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-        {
+    {
       "key": "快看",
       "name": "👀快看影视",
       "type": 3,
@@ -46,8 +46,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
-        {
+    {
       "key": "KanSJ_spider",
       "name": "🦅看视界",
       "api": "csp_KanSJ",
