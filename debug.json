@@ -66,16 +66,15 @@
       "quickSearch": 1,
       "searchable": 1
     },
-        {
-      "key": "csp_Jianying",
-      "name": "✨简✨影",
-      "type": 3,
-      "api": "csp_JianYing",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/leevi/apps/raw/branch/main/txt/jy.txt"
-    },
+    {
+       "key": "低端",
+       "name": "🚴低端(SP)",
+       "api": "csp_Ddrk",
+       "type": 3,
+       "filterable": 1,
+       "quickSearch": 1,
+       "searchable": 1
+        },
     {
       "key": "csp_IQIYI",
       "name": "🥝爱奇艺(官)",
