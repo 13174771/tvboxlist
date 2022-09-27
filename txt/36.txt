@@ -583,6 +583,7 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+NOW体育,https://pull-rtmp-l6.ixigua.com/live/58c8e432f491beb5b6f8dfa663b137f1.flv
 有线新闻台,http://98.142.138.122:1630/zhiboyuandakaTV/cable539854856.m3u8
 有线新闻台,http://98.142.138.122:1630/zhiboyuandakaTV/cable559854398.m3u8
 有线财经新闻台,http://98.142.138.122:1631/zhiboyuandakaTV/icable738952.m3u8
@@ -593,12 +594,11 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 HBO,http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73696$高清1080P
 HBO,http://platin4k.eu:80/kralkerim/8TKLyJivVEA/34795$高清1080P
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
-翡翠台,http://120.84.96.55:808/hls/25/index.m3u8?blog.ntnas.top
-明珠台,http://120.84.96.55:808/hls/26/index.m3u8?blog.ntnas.top
-TVB翡翠,http://23.237.10.66:16106$高清1080P
-TVB翡翠,http://1b6467f415.iok.la:113/tsfile/live/1053_1.m3u8$高清1080P
-TVB翡翠,http://113.64.147.30:808/hls/67/index.m3u8$高清1080P
+TVB翡翠,http://120.84.96.55:808/hls/25/index.m3u8?blog.ntnas.top$高清720P
+TVB翡翠,http://1b6467f415.iok.la:113/tsfile/live/1053_1.m3u8$高清720P
 TVB翡翠华丽,http://23.237.10.66:16410$高清1080P
+TVB明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8$高清720P
+TVB明珠台,http://120.84.96.55:808/hls/26/index.m3u8?blog.ntnas.top$高清1080P
 TVB功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8$高清720P
 TVB无线新闻,http://23.237.10.66:16110$高清1080P
 TVB无线新闻,http://111.229.84.232/yulin/tvb.php?id=1$高清1080P
@@ -608,8 +608,6 @@ TVB影视,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865
 ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8$高清720P
 ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8$高清720P
 ViuTV6,https://pull-l3-cny.douyincdn.com:443/live/e7af863905ba1411658aafc3374dd4ba.flv
-TVB明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8$高清720P
-TVB明珠台,https://cdn.hklive.tv/xxxx/84b/index.m3u8$高清720P
 TVB J2,https://j3.lhlh.app/mv.m3u8?checkedby:iptvcat.com
 天映经典,http://120.84.96.63:808/hls/85/index.m3u8$高清1080P
 天映经典,http://120.84.96.47:808/hls/85/index.m3u8$高清1080P
@@ -624,9 +622,10 @@ TVB J2,https://j3.lhlh.app/mv.m3u8?checkedby:iptvcat.com
 澳视Macau,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8$高清720P
 澳视澳門,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8$高清720P
 澳视澳門,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8$高清720P
-澳门莲花,http://nettvpro.live/hls/lotustv.php$高清1080P
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8$高清1080P
-澳门莲花,https://p.ggiptv.com/v/macaulotustv.php$高清720P
+澳门莲花,https://p.ggiptv.com/v/macaulotustv.php$高清1080P
+澳门莲花,http://nettvpro.live/hls/lotustv.php$高清1080P
+澳门莲花,https://cdn2.mtime.info/live/us_mtvlive/xtkFvySS.m3u8$高清1080P
 澳视体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8$高清720P
 澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8$高清720P
 澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8$高清720P
@@ -647,6 +646,7 @@ TVBS 56,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
 东森财经,rtmp://59.124.75.138/sat/tv571$高清720P
 东森超视,rtmp://59.124.75.150/sat/tv331$高清720P
 东森超视,http://171.108.239.13:8181/tsfile/live/1023_1.m3u8$高清720P
+中天新闻,https://pull-rtmp-l6.ixigua.com/live/b8d39bdc99174478115e5e53a6ad2d90.flv$高清1080P
 中天新闻,http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian98432987.m3u8$高清1080P
 卫视电影,http://23.237.10.66:16010$高清720P
 纬来育乐,rtmp://59.124.75.150/sat/tv701$高清720P
@@ -663,18 +663,17 @@ TVBS 56,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
 中视HD,rtmp://59.124.75.150/sat/tv091$高清720P
 华视HD,rtmp://59.124.75.138:1935/sat/tv111$高清720P
 华视HD,rtmp://59.124.75.150/sat/tv111$高清720P
+华视CTS,https://pull-rtmp-l6.ixigua.com/live/785960b00d3923649b31cd5e3f7b67ca.flv
 民视HD,rtmp://59.124.75.150/sat/tv051$高清720P
 民视HD,rtmp://59.124.75.138/sat/tv051$高清720P
-民视新闻,http://98.142.138.122:1634/zhiboyuandakaTV/mingshi838552450.m3u8
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8$高清1080P
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视新闻HD,http://98.142.138.122:1634/zhiboyuandakaTV/mingshi838552450.m3u8
+民视新闻HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8高清720P
+民视新闻HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8高清720P
+民视新闻HD,https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8高清720P
 台视HD,rtmp://59.124.75.150/sat/tv071$高清720P
 台视HD,rtmp://59.124.75.138/sat/tv071$高清720P
-台视新闻HD,http://98.142.138.122:1638/zhiboyuandakaTV/ebcnews92755.m3u8
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8$高清1080P
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8$高清1080P
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8$高清1080P
+台视新闻HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8$高清720P
+台视新闻HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8$高清720P
+台视新闻HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8$高清720P
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
@@ -683,6 +682,7 @@ TVBS 56,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+
 🚀｜山东,#genre#
 山东卫视,http://222.175.159.226:808/hls/19/index.m3u8$超清1080P
 山东卫视,http://39.134.67.110/PLTV/88888888/224/3221225952/index.m3u8$超清1080P
