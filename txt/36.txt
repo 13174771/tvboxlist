@@ -583,10 +583,6 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-NOW新闻,https://pull-rtmp-l6.ixigua.com/live/a81b1bbdf78ae7ece305952a3a6fb22b.flv
-NOW直播,https://pull-rtmp-l6.ixigua.com/live/5112848a9648d2a2b530d97ce0e3987f.flv
-NOW体育,https://pull-rtmp-l6.ixigua.com/live/58c8e432f491beb5b6f8dfa663b137f1.flv
-寰宇新闻台,https://bstvcdn.ballbar.net/huanyuxinwen_twn/playlist.m3u8a?t=1664270745&token=d864c6facbe4c98ec9046924b69f8669
 有线新闻台,http://98.142.138.122:1630/zhiboyuandakaTV/cable539854856.m3u8
 有线新闻台,http://98.142.138.122:1630/zhiboyuandakaTV/cable559854398.m3u8
 有线财经新闻台,http://98.142.138.122:1631/zhiboyuandakaTV/icable738952.m3u8
@@ -666,7 +662,6 @@ TVBS 56,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
 中视HD,rtmp://59.124.75.150/sat/tv091$高清720P
 华视HD,rtmp://59.124.75.138:1935/sat/tv111$高清720P
 华视HD,rtmp://59.124.75.150/sat/tv111$高清720P
-华视CTS,https://pull-rtmp-l6.ixigua.com/live/785960b00d3923649b31cd5e3f7b67ca.flv
 民视HD,rtmp://59.124.75.150/sat/tv051$高清720P
 民视HD,rtmp://59.124.75.138/sat/tv051$高清720P
 民视新闻HD,https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8高清720P
