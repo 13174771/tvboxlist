@@ -583,6 +583,7 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+寰宇新闻台,http://hd0808.top/jd2/qfjd2.php?cid=live1222&p=5003
 有线新闻台,http://98.142.138.122:1630/zhiboyuandakaTV/cable539854856.m3u8
 有线新闻台,http://98.142.138.122:1630/zhiboyuandakaTV/cable559854398.m3u8
 有线财经新闻台,http://98.142.138.122:1631/zhiboyuandakaTV/icable738952.m3u8
