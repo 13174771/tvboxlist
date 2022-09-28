@@ -502,8 +502,8 @@ CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV16,http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
 CCTV16,http://39.134.116.30:8080/PLTV/88888888/224/3221226230/index.m3u8
 CCTV16,http://39.135.138.59:18890/PLTV/88888888/224/3221226233/index.m3u8
-五星体育频道,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
-五星体育频道,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+五星体育,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 山东体育,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
 广东体育,http://183.63.15.42:9901/tsfile/live/0136_1.m3u8
 广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
