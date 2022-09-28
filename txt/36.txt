@@ -503,6 +503,8 @@ CCTV16,http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
 CCTV16,http://39.134.116.30:8080/PLTV/88888888/224/3221226230/index.m3u8
 CCTV16,http://39.135.138.59:18890/PLTV/88888888/224/3221226233/index.m3u8
 五星体育频道,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+五星体育频道,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+山东体育,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
 广东体育,http://183.63.15.42:9901/tsfile/live/0136_1.m3u8
 广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
@@ -695,6 +697,7 @@ TVBS 56,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
 三立都会台,http://hd0808.top/jd2/qfjd2.php?cid=live1020&p=5003$高清1080P
 三立戏剧台,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59$高清1080P
 原住民电视台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F$高清1080P
+原住民电视台,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8$高清720P
 中视HD,http://hd0808.top/jd2/qfjd2.php?cid=live1048&p=5003$高清1080P
 中视HD,http://jeffrey.qwl1965.top/tbs.php?tid=gt&id=39$高清720P
 中视HD,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=39$高清720P
@@ -749,7 +752,6 @@ TVBS 56,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
 HBO,http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73696$高清1080P
 HBO,http://platin4k.eu:80/kralkerim/8TKLyJivVEA/34795$高清1080P
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
-
 🚀｜山东,#genre#
 山东卫视,http://222.175.159.226:808/hls/19/index.m3u8$超清1080P
 山东卫视,http://39.134.67.110/PLTV/88888888/224/3221225952/index.m3u8$超清1080P
