@@ -1201,7 +1201,6 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
 奇异博士2,https://m3u8.zhisongip.com:38741/video/3099f403c3231082756f81aa33694921.m3u8
 逃狱兄弟3,https://m3u8.zhisongip.com:38741/video/58d86b3fe376edc4c7ee041ff8ae5722.m3u8
 冲出地球,https://m3u8.zhisongip.com:38741/video/67c2e0b0cfd204a51abca9db80e376cc.m3u8
-人生大事,https://m3u8.zhisongip.com:38741/video/fa4cc5b15bafd9e29680aa2c8d66d633.m3u8
 外太空的莫扎特,https://m3u8.zhisongip.com:38741/video/6b5c173718354a0b9e959aeb0b470d51.m3u8
 分手的决心,https://m3u8.zhisongip.com:38741/video/aa435fccf2fa26c52b8b3e23a1b091c1.m3u8
 隐入尘烟,https://m3u8.zhisongip.com:38741/video/dc4fbd1e954be9b5bb88eba9e52c86a9.m3u8
