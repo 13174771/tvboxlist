@@ -1179,32 +1179,6 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
 金色频道,http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8$高清1080P
 七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8$高清1080P
 
-🏝｜空中课堂,#genre#
-空中课堂一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkyinj/1300000/mnf.m3u8
-空中课堂二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkernj/1300000/mnf.m3u8
-空中课堂三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksannj/1300000/mnf.m3u8
-空中课堂四年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksinj/1300000/mnf.m3u8
-空中课堂五年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkwunj/1300000/mnf.m3u8
-空中课堂六年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkliunj/1300000/mnf.m3u8
-空中课堂七年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkqinj/1300000/mnf.m3u8
-空中课堂八年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkbanj/1300000/mnf.m3u8
-空中课堂九年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkjiunj/1300000/mnf.m3u8
-空中课堂高一,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
-空中课堂高二,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
-空中课堂高三,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
-一年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
-二年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
-三年级,http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8
-四年级,http://liveplay-kk.rtxapp.com/live/program/live/kksinj/1300000/mnf.m3u8
-五年级,http://liveplay-kk.rtxapp.com/live/program/live/kkwunj/1300000/mnf.m3u8
-六年级,http://liveplay-kk.rtxapp.com/live/program/live/kkliunj/1300000/mnf.m3u8
-初一,http://liveplay-kk.rtxapp.com/live/program/live/kkqinj/1300000/mnf.m3u8
-初二,http://liveplay-kk.rtxapp.com/live/program/live/kkbanj/1300000/mnf.m3u8
-初三,http://liveplay-kk.rtxapp.com/live/program/live/kkjiunj/1300000/mnf.m3u8
-高一,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
-高二,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
-高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
-
 👹｜热播大片,#genre#
 雷神4,https://hnzy3.hnzycdn.com:65/20220907/3HU2FchE/index.m3u8
 日班猎人,https://m3u8.zhisongip.com:38741/video/d1c6072693806c03e217bb6b5ca26e25.m3u8
@@ -1212,7 +1186,6 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
 青面修罗,https://m3u8.zhisongip.com:38741/video/a2a99731570679b584b8272cada3143d.m3u8
 猎屠,https://m3u8.zhisongip.com:38741/video/7cf9bf5d3a6416fcefd6e269b719f4b0.m3u8
 龙岭迷窟,https://m3u8.zhisongip.com:38741/video/5c4a609a73e0e4ac5f7dfe87cac6bbed.m3u8
-侏罗纪世界3,https://m3u8.zhisongip.com:38741/video/1ef9bb59428975cff6657c5fca7ecc26.m3u8
 侏罗纪世界3,https://qycache.hs-mould.cn/qiyi/89254e9c27db8cb8e50057e066929620/9GGTcl46rVoV2VVo_Ab1BRnitl5Mz7CD8kfHVGHichtqr6iqXDLFdX5QOHrxjlTZiiLJxqBkU_1E5s5UtudXBA/index.m3u8
 奇迹·笨小孩,https://m3u8.zhisongip.com:38741/video/1bedbb80668c08900b095c3851114ed8.m3u8
 黑客帝国4,https://m3u8.zhisongip.com:38741/video/6549699b60cbbb397a7bb388c7602321.m3u8
@@ -1228,7 +1201,7 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
 奇异博士2,https://m3u8.zhisongip.com:38741/video/3099f403c3231082756f81aa33694921.m3u8
 逃狱兄弟3,https://m3u8.zhisongip.com:38741/video/58d86b3fe376edc4c7ee041ff8ae5722.m3u8
 冲出地球,https://m3u8.zhisongip.com:38741/video/67c2e0b0cfd204a51abca9db80e376cc.m3u8
-人生大事,https://m3u8.zhisongip.com:38741/video/fa4cc5b15bafd9e29680aa2c8d66d633.m3u8
+人生大师,https://m3u8.cache.shtpin.com/Ddcache/20220929/bbaa4445be787ed79608d3e010b17524.m3u8?st=QYq1H7OZ_EkoGd_1bzowTw&e=1664445816
 外太空的莫扎特,https://m3u8.zhisongip.com:38741/video/6b5c173718354a0b9e959aeb0b470d51.m3u8
 分手的决心,https://m3u8.zhisongip.com:38741/video/aa435fccf2fa26c52b8b3e23a1b091c1.m3u8
 隐入尘烟,https://m3u8.zhisongip.com:38741/video/dc4fbd1e954be9b5bb88eba9e52c86a9.m3u8
