@@ -1205,6 +1205,33 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
 高二,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
 高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 
+👹热播大片,#genre#
+雷神4,https://hnzy3.hnzycdn.com:65/20220907/3HU2FchE/index.m3u8
+日班猎人,https://m3u8.zhisongip.com:38741/video/d1c6072693806c03e217bb6b5ca26e25.m3u8
+魔女2,https://aqy-xhzy.com/videos/62d2676e5582537ee159f220/11be5g/index.m3u8
+青面修罗,https://m3u8.zhisongip.com:38741/video/a2a99731570679b584b8272cada3143d.m3u8
+猎屠,https://m3u8.zhisongip.com:38741/video/7cf9bf5d3a6416fcefd6e269b719f4b0.m3u8
+龙岭迷窟,https://m3u8.zhisongip.com:38741/video/5c4a609a73e0e4ac5f7dfe87cac6bbed.m3u8
+侏罗纪世界3,https://m3u8.zhisongip.com:38741/video/1ef9bb59428975cff6657c5fca7ecc26.m3u8
+奇迹·笨小孩,https://m3u8.zhisongip.com:38741/video/1bedbb80668c08900b095c3851114ed8.m3u8
+黑客帝国4,https://m3u8.zhisongip.com:38741/video/6549699b60cbbb397a7bb388c7602321.m3u8
+惊声尖叫5,https://m3u8.zhisongip.com:38741/video/51f05115dc56c41e87f5ba5b0c31840c.m3u8
+长津湖,https://m3u8.zhisongip.com:38741/video/7614f55717c6ada7f467f9b1e33db86b.m3u8
+让子弹飞,https://m3u8.zhisongip.com:38741/video/b6050fae5e52f197fe3f0552e4bdeb7d.m3u8
+毒液2,https://m3u8.zhisongip.com:38741/video/50269c0f74939298f07c937712d08422.m3u8
+007：无暇赴死，https://m3u8.zhisongip.com:38741/video/10d0ddc1bcce4c0a76509d84760fa664.m3u8
+蜘蛛侠：英雄无归,https://m3u8.zhisongip.com:38741/video/98a24feb66be553a9cc12be4331c0421.m3u8
+13条命,https://m3u8.zhisongip.com:38741/video/9c7e85322da189ffefa574e2719a558d.m3u8
+铁血战士：猎物,https://m3u8.zhisongip.com:38741/video/e71b52697572d073587bb0b30cce50bd.m3u8
+神探大战,https://m3u8.zhisongip.com:38741/video/46491b86fe973eddf8106d8be4f6f891.m3u8
+奇异博士2,https://m3u8.zhisongip.com:38741/video/3099f403c3231082756f81aa33694921.m3u8
+逃狱兄弟3,https://m3u8.zhisongip.com:38741/video/58d86b3fe376edc4c7ee041ff8ae5722.m3u8
+冲出地球,https://m3u8.zhisongip.com:38741/video/67c2e0b0cfd204a51abca9db80e376cc.m3u8
+人生大事,https://m3u8.zhisongip.com:38741/video/fa4cc5b15bafd9e29680aa2c8d66d633.m3u8
+外太空的莫扎特,https://m3u8.zhisongip.com:38741/video/6b5c173718354a0b9e959aeb0b470d51.m3u8
+分手的决心,https://m3u8.zhisongip.com:38741/video/aa435fccf2fa26c52b8b3e23a1b091c1.m3u8
+隐入尘烟,https://m3u8.zhisongip.com:38741/video/dc4fbd1e954be9b5bb88eba9e52c86a9.m3u8
+
 🎬｜影院轮播,#genre#
 欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8$超清1080P
 欢笑剧场4K,http://111.20.33.70/PLTV/88888893/224/3221226582/index.m3u8$超清1080P 
