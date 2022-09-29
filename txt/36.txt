@@ -1180,9 +1180,6 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
 七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8$高清1080P
 
 👹｜热播大片,#genre#
-坏蛋联盟(普通话),https://qycache.hs-mould.cn/qiyi/43354719090850e32a0ba58e4eb58634/Bu0_obHZ2wP3Pz3OzsTA_Z_FGWQXdruDTkjGvMhP6eaZEwvfsbW_2wW2RvsOnWgwcOLhNpb2lUfT8q9bMeZk_A/index.m3u8
-无负今日,https://m3u8.cache.shtpin.com/Ddcache/20220929/af618b7ddb30986d07aa9fade8bde565.m3u8?st=2ipR0GydZ_AG280aeVqwjg&e=1664446228
-壮志凌云2,https://m3u8.cache.shtpin.com/Ddcache/20220929/06493634302111c60ba0af52cd08c1f3.m3u8?st=-Buir8fWBBRPWOKl8_9vqA&e=1664445970
 雷神4,https://hnzy3.hnzycdn.com:65/20220907/3HU2FchE/index.m3u8
 日班猎人,https://m3u8.zhisongip.com:38741/video/d1c6072693806c03e217bb6b5ca26e25.m3u8
 魔女2,https://aqy-xhzy.com/videos/62d2676e5582537ee159f220/11be5g/index.m3u8
