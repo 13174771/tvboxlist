@@ -10,20 +10,20 @@
       "quickSearch": 1,
       "filterable": 1
     },
+   {
+      "key": "csp_Kunyu77",
+      "name": "🌤酷云七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "快看",
       "name": "👀快看影视",
       "type": 3,
       "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-   {
-      "key": "csp_Kunyu77",
-      "name": "🌤酷云七七/待修复",
-      "type": 3,
-      "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
