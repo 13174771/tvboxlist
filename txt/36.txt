@@ -1205,7 +1205,7 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
 高二,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
 高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 
-👹热播大片,#genre#
+👹｜热播大片,#genre#
 雷神4,https://hnzy3.hnzycdn.com:65/20220907/3HU2FchE/index.m3u8
 日班猎人,https://m3u8.zhisongip.com:38741/video/d1c6072693806c03e217bb6b5ca26e25.m3u8
 魔女2,https://aqy-xhzy.com/videos/62d2676e5582537ee159f220/11be5g/index.m3u8
