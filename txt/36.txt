@@ -1186,7 +1186,6 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
 青面修罗,https://m3u8.zhisongip.com:38741/video/a2a99731570679b584b8272cada3143d.m3u8
 猎屠,https://m3u8.zhisongip.com:38741/video/7cf9bf5d3a6416fcefd6e269b719f4b0.m3u8
 龙岭迷窟,https://m3u8.zhisongip.com:38741/video/5c4a609a73e0e4ac5f7dfe87cac6bbed.m3u8
-侏罗纪世界3,https://m3u8.zhisongip.com:38741/video/1ef9bb59428975cff6657c5fca7ecc26.m3u8
 奇迹·笨小孩,https://m3u8.zhisongip.com:38741/video/1bedbb80668c08900b095c3851114ed8.m3u8
 黑客帝国4,https://m3u8.zhisongip.com:38741/video/6549699b60cbbb397a7bb388c7602321.m3u8
 惊声尖叫5,https://m3u8.zhisongip.com:38741/video/51f05115dc56c41e87f5ba5b0c31840c.m3u8
