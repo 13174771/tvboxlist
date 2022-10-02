@@ -167,6 +167,15 @@
         "其他片"
       ]
     },
+     {
+       "key": "csp_Wmkk",
+       "name": "完美看看(SP)",
+        "api": "csp_Wmkk",
+        "type": 3,
+        "filterable": 1,
+        "quickSearch": 1,
+        "searchable": 1
+     },
     {
       "key": "csp_Bd",
       "name": "📯哔嘀影视",
