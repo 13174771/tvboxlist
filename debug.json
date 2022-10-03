@@ -36,8 +36,8 @@
 	  "searchable": 1,
 	  "quickSearch": 1,
 	  "filterable": 1
-	},
-  {
+	  },
+    {
     "key":"优众影视",
     "name":"🚁优众影视〔SP〕",
     "type":3,"api":"csp_AppYs",
@@ -45,8 +45,8 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"http://121.205.88.194:7878/xgapp.php/v2/"
-  },
-  {
+    },
+    {
     "key": "csp_AppTT",
     "name": "🗺图图影视",
     "type": 3,
@@ -55,7 +55,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
-  },
+    },
     {
       "key": "KanSJ_spider",
       "name": "🦅看视界🦅",
