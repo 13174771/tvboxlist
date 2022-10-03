@@ -47,14 +47,13 @@
     "ext":"http://121.205.88.194:7878/xgapp.php/v2/"
     },
     {
-    "key": "csp_AppTT",
-    "name": "🗺图图影视",
-    "type": 3,
-    "api": "csp_AppTT",
-    "playerType": 1,
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
+    "key":"APPTT",
+    "name":"🗺图图影视",
+    "api":"csp_AppTT",
+    "type":3,
+    "filterable":1,
+    "quickSearch":1,
+    "searchable":1
     },
     {
       "key": "KanSJ_spider",
