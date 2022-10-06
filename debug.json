@@ -17,7 +17,8 @@
       "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "https://agit.ai/leevi/apps/raw/branch/main/jar/77.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"
     },
     {
       "key": "快看",
