@@ -1,6 +1,6 @@
 🇨🇳｜长期维护,#genre#
-9月29日更新,https://share.nite07.com/api/v3/file/source/19597/tv2.mp4?sign=vq2wXbs95lYiP-1xnmrIZq2ZDNuLpX3ap4Dua1iYbSQ%3D%3A0
-9月29日更新,https://share.nite07.com/api/v3/file/source/19596/tv.mp4?sign=HWfJjbifv3WLr0ASQRVDMrgyVW2kmdVvu28aR0sEQik%3D%3A0
+10月7日更新,https://share.nite07.com/api/v3/file/source/19597/tv2.mp4?sign=vq2wXbs95lYiP-1xnmrIZq2ZDNuLpX3ap4Dua1iYbSQ%3D%3A0
+10月7日更新,https://share.nite07.com/api/v3/file/source/19596/tv.mp4?sign=HWfJjbifv3WLr0ASQRVDMrgyVW2kmdVvu28aR0sEQik%3D%3A0
 
 🇨🇳｜央视频道,#genre#
 CCTV1,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT$超清1080P
@@ -597,10 +597,11 @@ NOW直播台,P2p://ns1.hellotvvod.com:9906/7c06ed22c9454993a9717d749d409f48
 寰宇新闻台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=38$高清1080P
 寰宇新闻台,http://hd0808.top/jd2/qfjd2.php?cid=live1222&p=5003$高清720P
 寰宇新闻台,http://jeffrey.qwl1965.top/tbs.php?tid=gt&id=38$高清720P
+香港有线新闻,http://jeffrey.qwl1965.top/tbs.php?tid=gt&id=18
 香港有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 香港有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-香港有线财经资讯,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
-香港有线财经资讯,http://98.142.138.122:1631/zhiboyuandakaTV/icable53832845.m3u8
+香港有线财经资讯,http://jeffrey.qwl1965.top/tbs.php?tid=gt&id=22
+香港有线财经资讯,http://61.10.2.141/live_freedirect/freehd208_h.live/playlist.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$高清1080P
 时尚频道,http://juyunlive.juyun.tv/live/24950198.m3u8$高清1080P
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
