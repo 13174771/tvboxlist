@@ -17,8 +17,7 @@
       "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://raw.iqiq.io/leevi0709/duo/main/jar/77.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"
+      "filterable": 1
     },
     {
       "key": "快看",
@@ -1377,7 +1376,7 @@
       "quickSearch": 0
     }
   ],
-  "spider":"https://raw.iqiq.io/leevi0709/duo/main/jar/1001.jar;md5;c474a7a9d106ef348f4ebdc7705c6d38",
+  "spider":"https://raw.iqiq.io/leevi0709/duo/main/jar/1009.jar;md5;648653a1067c03abb0ef369a463d7e20",
   "wallpaper":"https://www.yydsys.top/api.php",
   "lives": [
     {
