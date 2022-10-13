@@ -21,7 +21,7 @@
     },
     {
       "key": "快看",
-      "name": "👀快看影视",
+      "name": "🙈快看影视",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -29,7 +29,7 @@
       "filterable": 1
     },
     {
-     "name": " 👒293视频",
+     "name": "💽293视频",
      "key": "csp_SP293",
      "type": 3,
      "api": "csp_SP293",
@@ -39,7 +39,7 @@
     },
     {
     "key":"APPTT",
-    "name":"🗺图图影视",
+    "name":"🗺️图图影视",
     "api":"csp_AppTT",
     "type":3,
     "filterable":1,
@@ -48,7 +48,7 @@
     },
     {
       "key": "KanSJ_spider",
-      "name": "🦅看视界🦅",
+      "name": "📀看视界🎦",
       "api": "csp_KanSJ",
       "type": 3,
       "filterable": 1,
@@ -58,7 +58,7 @@
     },
      {
       "key": "360_spider",
-      "name": "🏵360影视(官)",
+      "name": "🥎360影视(官)",
       "api": "csp_SP360",
       "type": 3,
       "filterable": 1,
