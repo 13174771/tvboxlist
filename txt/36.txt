@@ -574,7 +574,6 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 
 🇨🇳｜港澳台,#genre#
-
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?blog.ntnas.top
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -616,7 +615,15 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 香港有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 香港有线财经资讯,http://61.10.2.141/live_freedirect/freehd208_h.live/playlist.m3u8
 凤凰卫视电影,http://23.237.10.66:16010
+NOW直播台,http://218.93.208.119:54799/hk/index.php?id=10
 TVB无线新闻,http://23.237.10.66:16110
+TVB翡翠台,http://113.64.147.195:808/hls/67/index.m3u8
+TVB翡翠台,http://113.64.147.145:808/hls/67/index.m3u8
+TVB翡翠台,http://113.64.147.116:808/hls/67/index.m3u8
+TVB翡翠台,http://113.64.147.121:808/hls/67/index.m3u8
+TVB翡翠台,http://113.64.147.37:808/hls/67/index.m3u8
+TVB翡翠台,http://113.64.147.152:808/hls/67/index.m3u8
+TVB翡翠台,http://113.64.147.6:808/hls/67/index.m3u8
 TVB翡翠台,http://23.237.10.66:16106
 TVB翡翠台,http://120.84.96.69:808/hls/25/index.m3u8
 TVB无线财经,http://120.84.96.55:808/hls/86/index.m3u8?blog.ntnas.top
@@ -706,6 +713,7 @@ TVBS 56,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
 探索动力,http://198.16.64.10:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8?zgangd
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 东森新闻,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
