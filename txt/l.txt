@@ -617,6 +617,13 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 凤凰卫视电影,http://23.237.10.66:16010
 NOW直播台,http://218.93.208.119:54799/hk/index.php?id=10
 TVB无线新闻,http://23.237.10.66:16110
+TVB翡翠台,http://113.64.147.195:808/hls/67/index.m3u8
+TVB翡翠台,http://113.64.147.145:808/hls/67/index.m3u8
+TVB翡翠台,http://113.64.147.116:808/hls/67/index.m3u8
+TVB翡翠台,http://113.64.147.121:808/hls/67/index.m3u8
+TVB翡翠台,http://113.64.147.37:808/hls/67/index.m3u8
+TVB翡翠台,http://113.64.147.152:808/hls/67/index.m3u8
+TVB翡翠台,http://113.64.147.6:808/hls/67/index.m3u8
 TVB翡翠台,http://23.237.10.66:16106
 TVB翡翠台,http://120.84.96.69:808/hls/25/index.m3u8
 TVB无线财经,http://120.84.96.55:808/hls/86/index.m3u8?blog.ntnas.top
