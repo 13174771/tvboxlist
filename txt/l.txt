@@ -354,11 +354,9 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 江西卫视,http://222.175.159.226:808/hls/56/index.m3u8$超清1080P
 江西卫视,http://111.40.196.39/PLTV/88888888/224/3221225560/index.m3u8$高清1080P
 
-广西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8?fmt=ts2hls$超清1080P
-广西卫视,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000294203.m3u8$超清1080P
-广西卫视,http://183.196.25.171:808/hls/46/index.m3u8$超清1080P
-广西卫视,http://111.59.63.32:9901/tsfile/live/1003_1.m3u8$超清1080P
-广西卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226211/index.m3u8$超清1080P
+广西卫视,http://183.196.25.171:808/hls/46/index.m3u8
+广西卫视,http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
+广西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
 
 山西卫视,http://player.521fanli.cn/1691/0/tide/tidem3u8.php?id=shanxihd$高清720P
 山西卫视,http://liveflash.sxrtv.com:80/live/sxwshd.m3u8$高清720P
@@ -918,6 +916,9 @@ TVBS 56,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
 电白视窗,http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8$高清720P
 
  🍍｜️广西,#genre#
+广西卫视,http://183.196.25.171:808/hls/46/index.m3u8
+广西卫视,http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
+广西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
 百色综合,http://39.135.32.236:6610/PLTV/77777777/224/3221225900/index.m3u8?
 南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
 南宁新闻综合,rtmp://rtmp.nntv.cn/nnlive/NNTV_NEWS_A?zguangxd
