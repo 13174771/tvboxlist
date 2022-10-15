@@ -793,6 +793,7 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 凤凰卫视电影,http://23.237.10.66:16010
 NOW直播台,http://218.93.208.119:54799/hk/index.php?id=10
 NOW新闻台,http://pull-l3-cny.douyincdn.com/live/6ba3a27de2ca0d2f38e9f40966ce9510.flv
+NOW体育台,http://pull-l3-cny.douyincdn.com/live/451f479e131f9513c7f7e848dac70897.flv
 TVB无线新闻,http://23.237.10.66:16110
 TVB翡翠台,http://113.64.147.195:808/hls/67/index.m3u8
 TVB翡翠台,http://113.64.147.145:808/hls/67/index.m3u8
