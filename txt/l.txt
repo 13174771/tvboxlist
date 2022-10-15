@@ -789,6 +789,7 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?blog.ntnas.top
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
 香港有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+香港有线财经资讯,http://pull-l3-cny.douyincdn.com/live/56962be4c03757663022e1c0a037cfc0.flv
 香港有线财经资讯,http://61.10.2.141/live_freedirect/freehd208_h.live/playlist.m3u8
 凤凰卫视电影,http://23.237.10.66:16010
 NOW直播台,http://218.93.208.119:54799/hk/index.php?id=10
