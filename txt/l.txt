@@ -783,6 +783,7 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰香港台,http://120.84.96.78:808/hls/81/index.m3u8
+香港开电视,http://pull-l3-cny.douyincdn.com/live/30227c9ea46bc1a671827c2e463c9c61.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=6d175258de742132e85e9405-157881825529454&wsIPSercert=82db4cc65e24e5963f2c368b180dc0b3&wsMonitor=0&time=1578818276184
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
@@ -790,11 +791,13 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
 香港有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 香港有线财经资讯,http://pull-l3-cny.douyincdn.com/live/56962be4c03757663022e1c0a037cfc0.flv
+香港有线18台,http://pull-l3-cny.douyincdn.com/live/66917ee1794020bdba7a4c99e3cb5460.flv
 香港有线财经资讯,http://61.10.2.141/live_freedirect/freehd208_h.live/playlist.m3u8
 凤凰卫视电影,http://23.237.10.66:16010
 NOW直播台,http://218.93.208.119:54799/hk/index.php?id=10
 NOW新闻台,http://pull-l3-cny.douyincdn.com/live/6ba3a27de2ca0d2f38e9f40966ce9510.flv
 NOW体育台,http://pull-l3-cny.douyincdn.com/live/451f479e131f9513c7f7e848dac70897.flv
+TVB无线新闻,http://pull-l3-cny.douyincdn.com/live/61c5ac9a162e06681de1ea34a0892aab.flv
 TVB无线新闻,http://23.237.10.66:16110
 TVB翡翠台,http://113.64.147.195:808/hls/67/index.m3u8
 TVB翡翠台,http://113.64.147.145:808/hls/67/index.m3u8
@@ -805,16 +808,21 @@ TVB翡翠台,http://113.64.147.152:808/hls/67/index.m3u8
 TVB翡翠台,http://113.64.147.6:808/hls/67/index.m3u8
 TVB翡翠台,http://23.237.10.66:16106
 TVB翡翠台,http://120.84.96.69:808/hls/25/index.m3u8
+TVB明珠台,http://pull-l3-cny.douyincdn.com/live/d7d186d360e5b4c95619baf603f221c4.flv
+TVB明珠台,http://120.84.96.50:808/hls/26/index.m3u8
+TVB明珠台,http://jyjxy.7766.org:808/hls/37/index.m3u8
+TVB星河国,http://pull-l3-cny.douyincdn.com/live/3e924894647c3000d95a2acfcb33945d.flv
+TVB星河粤,http://pull-l3-cny.douyincdn.com/live/e60352bc61a64f79d783e45e18ef0a05.flv
+娱乐新闻台,http://pull-l3-cny.douyincdn.com/live/e2df82db4cdc3dc6b1c81dfa0aee55ea.flv
 TVB无线财经,http://120.84.96.55:808/hls/86/index.m3u8?blog.ntnas.top
 TVB无线财经,http://120.84.96.74:808/hls/86/index.m3u8
 TVB无线财经,http://120.84.96.71:808/hls/86/index.m3u8
 TVB无线财经,http://120.84.96.62:808/hls/86/index.m3u8
 TVB无线财经,http://120.84.96.63:808/hls/86/index.m3u8
-TVB明珠台2,https://epg.pm/stream/f8d5ee5dae5bc40a4582cfb40a7d7063310dfda47ce05b86b5aa9ff5e50c9172.m3u8
-TVB明珠台,http://120.84.96.50:808/hls/26/index.m3u8
-TVB明珠台,http://jyjxy.7766.org:808/hls/37/index.m3u8
+TVB无线财经,http://pull-l3-cny.douyincdn.com/live/114c7ceba46c463ed1cdb10caba6feb9.flv
 TVB功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 TVB翡翠华丽,http://23.237.10.66:16410
+千禧经典台,http://pull-l3-cny.douyincdn.com/live/ceeec5f8127994bfca38b31358aa206f.flv
 天映频道,http://51.79.82.208:16024
 天映经典,http://120.84.96.63:808/hls/85/index.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
@@ -823,10 +831,17 @@ TVB翡翠华丽,http://23.237.10.66:16410
 星空卫视,http://120.84.96.63:808/hls/79/index.m3u8
 星空卫视,http://120.84.96.71:808/hls/79/index.m3u8
 星空卫视,http://120.84.96.63:808/hls/79/index.m3u8?blog.ntnas.top
+美亚电影,http://pull-l3-cny.douyincdn.com/live/97adcfda800a5c3067b30f04365526a5.flv
 港视32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 港视32台,http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
+MYTV,http://pull-l3-cny.douyincdn.com/live/0db256e82a36bbc5bee5dead84c268bf.flv
+爆谷星影台,http://pull-l3-cny.douyincdn.com/live/c90e6aa55825b2c993609fea30933bcf.flv
+RTHK31,http://pull-l3-cny.douyincdn.com/live/5b9d2f804379b4fa3ad3e3fb1197b15b.flv
+RTHK32,http://pull-l3-cny.douyincdn.com/live/3029c5707cf4d44e38636ecfede874fb.flv
+TVB J2,http://pull-l3-cny.douyincdn.com/live/fea8b6632c51daf912e4e6f58d651656.flv
 TVB J2,https://j3.lhlh.app/mv.m3u8?checkedby:iptvcat.com
 TVB J2,https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
+VIUTV,http://pull-l3-cny.douyincdn.com/live/80a721e37f0fddad0c51b84a31cdbb61.flv
 VIUTV6,http://198.16.64.10:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 中国电影,http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
