@@ -1408,27 +1408,27 @@
             "url": "Sequence"
         },
         {
-            "name": "风起陇西1",
+            "name": "hxys1",
             "type": 0,
             "url": "https://hxys.tv/bfq/?url="
         },
         {
-            "name": "风起长林2",
+            "name": "fuqi2",
             "type": 1,
             "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
         },
         {
-            "name": "风起苍岚",
+            "name": "fositv3",
             "type": 0,
             "url": "https://play.fositv.com/?url="
         },
         {
-            "name": "风起云涌",
+            "name": "okjx4",
             "type": 0,
             "url": "https://okjx.cc/?url="
         },
         {
-            "name": "风起邺城",
+            "name": "鸿途5",
             "url": "http://139.159.220.126:5705/parse/api/鸿途.js?url=",
             "type": 1,
             "ext": {
@@ -1462,7 +1462,7 @@
             }
         },
         {
-            "name": "风起江湖2",
+            "name": "江湖6",
             "url": "http://139.159.220.126:5705/parse/api/江湖.js?url=",
             "type": 1,
             "ext": {
@@ -1496,7 +1496,7 @@
             }
         },
         {
-            "name": "风起酷云",
+            "name": "酷云7",
             "url": "http://139.159.220.126:5705/parse/api/酷云.js?url=",
             "type": 1,
             "ext": {
@@ -1530,7 +1530,7 @@
             }
         },
         {
-            "name": "风起飞跃",
+            "name": "飞跃8",
             "url": "http://139.159.220.126:5705/parse/api/飞跃.js?url=",
             "type": 1,
             "ext": {
@@ -1564,7 +1564,7 @@
             }
         },
         {
-            "name": "风起无名",
+            "name": "无名9",
             "url": "http://139.159.220.126:5705/parse/api/无名.js?url=",
             "type": 1,
             "ext": {
@@ -1598,22 +1598,22 @@
             }
         },
         {
-            "name": "风起天阑",
+            "name": "战狼10",
             "type": 0,
             "url": "https://jx.zhanlangbu.com/?url="
         },
         {
-            "name": "风起长安",
+            "name": "chaoli11",
             "type": 1,
             "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
         },
         {
-            "name": "风起吴郡",
+            "name": "fuqi12",
             "type": 1,
             "url": "https://play.fuqizhishi.com/jx/API.php?appkey=iiiixiaobai&url="
         },
         {
-            "name": "风起许都",
+            "name": "猫咪13",
             "type": 1,
             "url": "http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url=",
             "ext": {
@@ -1648,7 +1648,7 @@
             }
         },
         {
-            "name": "风起狂林",
+            "name": "keyu14",
             "type": 1,
             "url": "http://newjiexi.gotka.top/keyu3.php?url=",
             "ext": {
@@ -1677,7 +1677,7 @@
             }
         },
         {
-            "name": "风起江湖",
+            "name": "江湖15",
             "type": 1,
             "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
         }
