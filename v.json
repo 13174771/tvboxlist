@@ -57,6 +57,25 @@
     "searchable":1
     },
     {
+      "key": "csp_CZSPP",
+      "name": "🏭厂长资源",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_biubiu_在线之家",
+      "name": "🏠在线之家",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
+    },
+    {
       "key": "快看",
       "name": "🙈快看影视",
       "type": 3,
@@ -194,24 +213,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_CZSPP",
-      "name": "🏭厂长资源",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Lezhu_spider",
-      "name": "🐷乐猪影视",
-      "api": "csp_Lezhu",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1
     },
     {
       "key": "Smdyy",
@@ -676,16 +677,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/%E5%86%B7%E6%9B%A6%E5%BD%B1%E8%A7%86.json"
-    },
-    {
-      "key": "csp_biubiu_在线之家",
-      "name": "🏠在线之家",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
     },
     {
       "key": "csp_XYQBiu_凌云影视",
