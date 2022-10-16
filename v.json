@@ -78,7 +78,7 @@
         },
         {
             "key": "csp_dd5555",
-            "name": "🎖555 影视",
+            "name": "🎖555影视",
             "api": "csp_Dy555",
             "type": 3,
             "filterable": 1,
@@ -87,7 +87,7 @@
         },
         {
             "key": "csp_剧荒",
-            "name": "👿剧荒",
+            "name": "🎦剧荒TV",
             "type": 3,
             "api": "csp_Juhuang",
             "searchable": 1,
@@ -96,7 +96,7 @@
         },
         {
             "key": "追剧喵",
-            "name": "🐱追剧喵",
+            "name": "😻追剧喵",
             "type": 3,
             "api": "csp_ZJMiao",
             "searchable": 1,
