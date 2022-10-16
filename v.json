@@ -12,7 +12,7 @@
         },
         {
             "key": "csp_Kunyu77",
-            "name": "🌤️酷云七七",
+            "name": "⚡酷云七七",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -21,7 +21,7 @@
         },
         {
             "key": "360_spider",
-            "name": "🥎360影视",
+            "name": "🌞360影视",
             "api": "csp_SP360",
             "type": 3,
             "filterable": 1,
@@ -58,7 +58,7 @@
         },
         {
             "key": "csp_XBPQ极品影视",
-            "name": "🎬极品影视",
+            "name": "🌻极品影视",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
@@ -69,7 +69,7 @@
         },
         {
             "key": "小苹果",
-            "name": "🍎小苹果",
+            "name": "🍏小苹果",
             "type": 3,
             "api": "csp_LiteApple",
             "searchable": 1,
@@ -78,7 +78,7 @@
         },
         {
             "key": "csp_dd5555",
-            "name": "🎖555影视",
+            "name": "🥇555影视",
             "api": "csp_Dy555",
             "type": 3,
             "filterable": 1,
@@ -87,7 +87,7 @@
         },
         {
             "key": "csp_剧荒",
-            "name": "🎦剧荒TV",
+            "name": "⛱️剧荒TV",
             "type": 3,
             "api": "csp_Juhuang",
             "searchable": 1,
@@ -214,7 +214,7 @@
             "filterable": 1
         },
         {
-            "name": "💽293视频",
+            "name": "💋293视频",
             "key": "csp_SP293",
             "type": 3,
             "api": "csp_SP293",
@@ -224,7 +224,7 @@
         },
         {
             "key": "KanSJ_spider",
-            "name": "📀看视界🎦",
+            "name": "💯看视界",
             "api": "csp_KanSJ",
             "type": 3,
             "filterable": 1,
