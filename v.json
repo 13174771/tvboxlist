@@ -19,6 +19,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+   {
+      "key": "360_spider",
+      "name": "🥎360影视(官)",
+      "api": "csp_SP360",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1
+    },
     {
       "key": "Lezhu_spider",
       "name": "🐷乐猪(SP)",
@@ -37,7 +46,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/nmys.json"
-        },
+     },
+    {
+    "key":"APPTT",
+    "name":"🗺️图图影视",
+    "api":"csp_AppTT",
+    "type":3,
+    "filterable":1,
+    "quickSearch":1,
+    "searchable":1
+    },
     {
       "key": "快看",
       "name": "🙈快看影视",
@@ -57,15 +75,6 @@
      "filterable": 1
     },
     {
-    "key":"APPTT",
-    "name":"🗺️图图影视",
-    "api":"csp_AppTT",
-    "type":3,
-    "filterable":1,
-    "quickSearch":1,
-    "searchable":1
-    },
-    {
       "key": "KanSJ_spider",
       "name": "📀看视界🎦",
       "api": "csp_KanSJ",
@@ -74,15 +83,6 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": ""
-    },
-     {
-      "key": "360_spider",
-      "name": "🥎360影视(官)",
-      "api": "csp_SP360",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1
     },
     {
        "key": "低端",
@@ -93,6 +93,7 @@
        "quickSearch": 1,
        "searchable": 1
         },
+
     {
       "key": "csp_IQIYI",
       "name": "🥝爱奇艺(官)",
