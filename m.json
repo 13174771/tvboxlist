@@ -56,7 +56,7 @@
     "quickSearch":1,
     "searchable":1
     },
-   // {
+{
       "key": "csp_CZSPP",
       "name": "🏭厂长资源",
       "type": 3,
@@ -83,7 +83,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   // {
+{
      "name": "💽293视频",
      "key": "csp_SP293",
      "type": 3,
@@ -92,7 +92,7 @@
      "quickSearch": 1,
      "filterable": 1
     },
-   // {
+{
       "key": "KanSJ_spider",
       "name": "📀看视界🎦",
       "api": "csp_KanSJ",
