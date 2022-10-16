@@ -21,7 +21,7 @@
     },
    {
       "key": "360_spider",
-      "name": "🥎360影视(官)",
+      "name": "🥎360影视",
       "api": "csp_SP360",
       "type": 3,
       "filterable": 1,
@@ -30,7 +30,7 @@
     },
     {
       "key": "Lezhu_spider",
-      "name": "🐷乐猪(SP)",
+      "name": "🐷乐猪影视",
       "api": "csp_Lezhu",
       "type": 3,
       "filterable": 1,
@@ -39,7 +39,7 @@
     },
     {
       "key": "csp_Nmys",
-      "name": "👨‍🌾农民影视(SP)",
+      "name": "👨‍🌾农民影视",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
