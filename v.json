@@ -20,6 +20,25 @@
       "filterable": 1
     },
     {
+      "key": "Lezhu_spider",
+      "name": "🐷乐猪(SP)",
+      "api": "csp_Lezhu",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "👨‍🌾农民影视(SP)",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/nmys.json"
+        },
+    {
       "key": "快看",
       "name": "🙈快看影视",
       "type": 3,
