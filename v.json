@@ -838,16 +838,6 @@
       "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.json"
     },
     {
-      "key": "csp_biubiu_555电影",
-      "name": "🏅555 电影",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/555%E7%94%B5%E5%BD%B1.json"
-    },
-    {
       "key": "csp_XBiubiu_UM影视",
       "name": "🦋UM影视",
       "type": 3,
