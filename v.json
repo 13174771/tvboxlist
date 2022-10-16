@@ -57,6 +57,43 @@
     "searchable":1
     },
     {
+     "key": "小苹果",
+     "name": "🍎小苹果",
+     "type": 3,
+     "api": "csp_LiteApple",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
+    },
+    {
+   {
+     "key": "csp_dd5555",
+     "name": "🎖555 影视",
+     "api": "csp_Dy555",
+     "type": 3,
+     "filterable": 1,
+     "quickSearch": 1,
+     "searchable": 1
+    },
+   {
+      "key": "csp_剧荒",
+      "name": "👿剧荒",
+      "type": 3,
+      "api": "csp_Juhuang",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+     "key": "追剧喵",
+     "name": "🐱追剧喵",
+     "type": 3,
+     "api": "csp_ZJMiao",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
+    },
+    {
   "key":"csp_Zxzj",
   "name":"🏠在线之家",
   "type":3,
@@ -241,33 +278,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_dd5555",
-      "name": "🎖555 影视",
-      "api": "csp_Dy555",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1
-    },
-    {
-      "key": "小苹果",
-      "name": "🍎小苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "追剧喵",
-      "name": "🐱追剧喵",
-      "type": 3,
-      "api": "csp_ZJMiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "小熊",
       "name": "🐨小熊TV",
       "type": 3,
@@ -308,15 +318,6 @@
       "name": "✌两个BT",
       "type": 3,
       "api": "csp_Bttoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_剧荒",
-      "name": "👿剧荒",
-      "type": 3,
-      "api": "csp_Juhuang",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
