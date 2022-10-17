@@ -1058,16 +1058,6 @@
             "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/Nike%E5%BD%B1%E8%A7%86.json"
         },
         {
-            "key": "csp_XBiubiu_0855",
-            "name": "🧳0855影视",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/0855%E5%BD%B1%E8%A7%86.json"
-        },
-        {
             "key": "去看动漫",
             "name": "🎊去看动漫",
             "type": 3,
@@ -1240,14 +1230,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "http://app.wnvod.net/lvdou_api.php/v1.vod"
-        },
-        {
-            "key": "波比影视",
-            "name": "🍠波比影视",
-            "type": 1,
-            "api": "http://xxhhsc.top/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
         },
         {
             "key": "多多资源",
