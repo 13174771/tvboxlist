@@ -351,6 +351,15 @@
             "filterable": 0
         },
         {
+            "key": "csp_biubiu_ting",
+            "name": "📚️听书网",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/tingshu.json"},
+        {
             "key": "17kan",
             "name": "⚽🏀17看球",
             "type": 3,
@@ -402,7 +411,7 @@
         },
         {
             "key": "csp_xBPQ_抓饭体育",
-            "name": "️🤾🏾抓饭体育",
+            "name": "️🤾‍♀🤾🏾抓饭体育",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
