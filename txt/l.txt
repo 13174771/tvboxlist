@@ -623,7 +623,9 @@ TVB翡翠华丽,http://23.237.10.66:16410
 星空卫视,http://120.84.96.63:808/hls/79/index.m3u8
 星空卫视,http://120.84.96.71:808/hls/79/index.m3u8
 星空卫视,http://120.84.96.63:808/hls/79/index.m3u8?blog.ntnas.top
+港视32台,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 港视32台,http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
+TVB J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 TVB J2,https://j3.lhlh.app/mv.m3u8?checkedby:iptvcat.com
 TVB J2,https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
 VIUTV6,http://198.16.64.10:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
