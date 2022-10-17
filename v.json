@@ -248,8 +248,7 @@
             "api": "csp_Czsapp",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/厂长资源.json"
+            "filterable": 1
         },
         {
             "key": "csp_Bd",
@@ -403,7 +402,7 @@
         },
         {
             "key": "csp_xBPQ_抓饭体育",
-            "name": "️⚽🏀抓饭体育",
+            "name": "️🤾🏾抓饭体育",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
