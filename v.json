@@ -68,6 +68,15 @@
             "jar": "https://raw.iqiq.io/leevi0709/duo/main/json/jpys.jar"
         },
         {
+            "key": "低端",
+            "name": "🐾低端(SP)",
+            "api": "csp_Ddrk",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
+        {
             "key": "小苹果",
             "name": "🍏小苹果",
             "type": 3,
@@ -231,15 +240,6 @@
             "quickSearch": 1,
             "searchable": 1,
             "ext": ""
-        },
-        {
-            "key": "低端",
-            "name": "🚴低端(SP)",
-            "api": "csp_Ddrk",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
         },
         {
             "key": "csp_CZSPP",
