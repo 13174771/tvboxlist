@@ -68,10 +68,28 @@
             "jar": "https://raw.iqiq.io/leevi0709/duo/main/json/jpys.jar"
         },
         {
+            "key": "低端",
+            "name": "🐞低端影视",
+            "api": "csp_Ddrk",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
+        {
             "key": "小苹果",
             "name": "🍏小苹果",
             "type": 3,
             "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_LibVio",
+            "name": "🍒LibVio",
+            "type": 3,
+            "api": "csp_Lib",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -233,15 +251,6 @@
             "ext": ""
         },
         {
-            "key": "低端",
-            "name": "🚴低端(SP)",
-            "api": "csp_Ddrk",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
-        },
-        {
             "key": "csp_CZSPP",
             "name": "🏭厂长资源",
             "type": 3,
@@ -306,15 +315,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_LibVio",
-            "name": "🍒LibVio",
-            "type": 3,
-            "api": "csp_Lib",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Auete",
             "name": "🐼Auete",
             "type": 3,
@@ -350,6 +350,15 @@
             "quickSearch": 1,
             "filterable": 0
         },
+        {
+            "key": "csp_biubiu_ting",
+            "name": "📚️听书网",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/tingshu.json"},
         {
             "key": "17kan",
             "name": "⚽🏀17看球",
@@ -402,7 +411,7 @@
         },
         {
             "key": "csp_xBPQ_抓饭体育",
-            "name": "️⚽🏀抓饭体育",
+            "name": "️🤾‍♀🤾🏾抓饭体育",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
@@ -442,7 +451,7 @@
         },
         {
             "key": "软件",
-            "name": "📚软件教程",
+            "name": "📗软件教程",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
