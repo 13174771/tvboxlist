@@ -248,7 +248,8 @@
             "api": "csp_Czsapp",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/厂长资源.json"
         },
         {
             "key": "csp_Bd",
