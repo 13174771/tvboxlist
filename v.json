@@ -69,7 +69,7 @@
         },
         {
             "key": "低端",
-            "name": "🐾低端(SP)",
+            "name": "🐞低端影视",
             "api": "csp_Ddrk",
             "type": 3,
             "filterable": 1,
@@ -81,6 +81,15 @@
             "name": "🍏小苹果",
             "type": 3,
             "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_LibVio",
+            "name": "🍒LibVio",
+            "type": 3,
+            "api": "csp_Lib",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -301,15 +310,6 @@
             "name": "🎀Cokemv",
             "type": 3,
             "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_LibVio",
-            "name": "🍒LibVio",
-            "type": 3,
-            "api": "csp_Lib",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
