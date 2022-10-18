@@ -800,16 +800,6 @@
             "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/%E6%AF%94%E7%89%B9%E5%BD%B1%E8%A7%86.json"
         },
         {
-            "key": "csp_biubiu_yekong",
-            "name": "🌃夜空蓝光",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/%E5%A4%9C%E7%A9%BA%E8%93%9D%E5%85%89.json"
-        },
-        {
             "key": "花猫影视",
             "name": "🐱花猫影视",
             "type": 3,
