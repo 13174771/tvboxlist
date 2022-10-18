@@ -580,14 +580,6 @@
             "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/%E9%85%B7%E5%A5%87MV.json"
         },
         {
-            "key": "ASMR",
-            "name": "👄ASMR19",
-            "type": 1,
-            "api": "http://www.asmr19.in/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
             "key": "csp_Alist",
             "name": "🗂Alist合集",
             "type": 3,
@@ -716,16 +708,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/%E6%B0%A2%E8%A7%86%E9%A2%91.json"
-        },
-        {
-            "key": "csp_XYQHiker_冷曦影视",
-            "name": "❄冷曦影视",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/%E5%86%B7%E6%9B%A6%E5%BD%B1%E8%A7%86.json"
         },
         {
             "key": "csp_XYQBiu_凌云影视",
