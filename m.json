@@ -1492,17 +1492,7 @@
             "url": "https://jx.zhanlangbu.com/?url="
         },
         {
-            "name": "chaloli7",
-            "type": 1,
-            "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
-        },
-        {
-            "name": "fuqi8",
-            "type": 1,
-            "url": "https://play.fuqizhishi.com/jx/API.php?appkey=iiiixiaobai&url="
-        },
-        {
-            "name": "酷云9",
+            "name": "酷云7",
             "url": "http://101.34.67.237:5705/parse/api/酷云.js?url=",
             "type": 1,
             "ext": {
@@ -1534,6 +1524,16 @@
                     "User-Agent": "Mozilla/5.0"
                 }
             }
+        },
+        {
+            "name": "chaloli8",
+            "type": 1,
+            "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
+        },
+        {
+            "name": "fuqi9",
+            "type": 1,
+            "url": "https://play.fuqizhishi.com/jx/API.php?appkey=iiiixiaobai&url="
         },
         {
             "name": "江湖10",
