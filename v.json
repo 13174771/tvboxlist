@@ -608,47 +608,49 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
+                {
             "key": "Gitcafe",
             "name": "🔖小纸条",
             "type": 3,
             "api": "csp_Gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.iqiq.io/leevi0709/duo/main/txt/al.txt"
-        },
-        {
-            "key": "Upyunso",
-            "name": "🌤UP云搜",
-            "type": 3,
-            "api": "csp_Upyunso",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.iqiq.io/leevi0709/duo/main/txt/al.txt"
+            "filterable": 1,
+            "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
         },
         {
-            "key": "FindZY",
-            "name": "🔍找资源",
+            "key": "Upyunso",
+            "name": "🌤UP云搜（仅搜索）",
             "type": 3,
-            "api": "csp_Zhaozy",
+            "api": "csp_Upyunso",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.iqiq.io/leevi0709/duo/main/txt/al.txt"
+            "filterable": 1,
+            "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
         },
-        {
+         {
+            "key": "zhaozy",
+            "name": "🔍找资源(仅搜索)",
+            "type": 3,
+            "api": "csp_FindZY",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
+        },
+         {
             "key": "AliPS",
-            "name": "📀盘搜",
+            "name": "📀盘搜(仅搜索)",
             "type": 3,
             "api": "csp_AliPS",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.iqiq.io/leevi0709/duo/main/txt/al.txt"
-        },
+            "filterable": 1,
+            "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
+        }
         {
             "key": "csp_Yiso",
             "name": "🎯易搜",
@@ -657,17 +659,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.iqiq.io/leevi0709/duo/main/txt/al.txt"
+            "ext": "ab0b9a7555e84175bbc6f8e60310ae49",
+            "jar": "https://raw.iqiq.io/leevi0709/duo/main/json/yisozc.jar;md5;8d29a86d985a54225af22a82bb9328ee"
         },
         {
             "key": "push_agent",
             "name": "📨推送",
             "type": 3,
             "api": "csp_PushAgent",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.iqiq.io/leevi0709/duo/main/txt/al.txt"
+            "ext": "ab0b9a7555e84175bbc6f8e60310ae49"
         },
         {
             "key": "csp_xpath_yinfans",
