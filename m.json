@@ -19,15 +19,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "桉t4",
+	{
+            "key": "T4聚合",
             "name": "🧆豆瓣榜单",
             "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=ab0b9a7555e84175bbc6f8e60310ae49&timeout=6",
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=3779824041f446739219805f08431947&timeout=5",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
+        },   
         {
             "key": "Kuaikan",
             "name": "🙈快看影视",
@@ -619,15 +619,6 @@
             "type_flag": 1
         },
         {
-            "key": "T4聚合",
-            "name": "🌏T4聚合",
-            "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=https://raw.iqiq.io/leevi0709/duo/main/txt/al.txt&timeout=5",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-                {
             "key": "Gitcafe",
             "name": "🔖小纸条",
             "type": 3,
