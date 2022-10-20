@@ -20,6 +20,15 @@
             "filterable": 1
         },
         {
+            "key": "桉t4",
+            "name": "🧆豆瓣榜单",
+            "type": 4,
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=ab0b9a7555e84175bbc6f8e60310ae49&timeout=6",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Kuaikan",
             "name": "🙈快看影视",
             "type": 3,
