@@ -1,10 +1,11 @@
+//大聪明友情提醒：本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除
 {
     "sites": [
         {
-            "key": "",
+            "key": "appsduoduo",
             "name": "关注公众号：应用多多，获取更多软件干货",
             "type": 3,
-            "api": "",
+            "api": "appsduoduo",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -55,7 +56,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_Nmys",
+            "key": "csp_xpNmys",
             "name": "👨‍🌾农民影视",
             "type": 3,
             "api": "csp_Nmys",
@@ -1382,7 +1383,7 @@
             "quickSearch": 0
         }
     ],
-    "spider":"https://raw.iqiq.io/leevi0709/duo/main/jar/1018.jar;md5;09DFACE66E95767A9EEDFFB0FAD14803",
+    "spider": "./jar/duoduo.jar;md5;648653a1067c03abb0ef369a463d7e20",
     "wallpaper": "https://www.yydsys.top/api.php",
     "lives": [
         {
