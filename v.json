@@ -65,7 +65,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_xpNmys",
+            "key": "农民",
             "name": "👨‍🌾农民影视",
             "type": 3,
             "api": "csp_Nmys",
@@ -73,7 +73,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://leevi0709.github.io/json/Nmys.json"
-        },
+        },  	   
         {
             "key": "APPTT",
             "name": "🗺️图图影视",
